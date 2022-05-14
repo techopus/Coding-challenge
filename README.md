@@ -13,9 +13,11 @@ Task:
 Result example screenshots:
 
 Desktop -
+
 ![desktop-out](https://user-images.githubusercontent.com/92953798/168436206-b0153cc5-07a9-4e24-855f-d070cde1e089.jpg)
 
 Mobile - 
+
 ![mobile-out](https://user-images.githubusercontent.com/92953798/168436312-91096014-e838-45e1-b858-977dfb60eb4e.jpg)
 
 
